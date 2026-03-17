@@ -18,9 +18,9 @@ The goal of this repository is to track my learning process, practice queries, a
 
 | Step | Topic | Status |
 |-----|------|------|
-| 1 | SQL Basics | In Progress |
-| 2 | SQL Projects | Not Started |
-| 3 | SQL Murder Mystery | Not Started |
+| 1 | SQL Basics | Completed |
+| 2 | SQL Projects | Completed |
+| 3 | SQL Murder Mystery | In Progress |
 | 4 | SQL Scavenger Hunt | Not Started |
 
 ---
